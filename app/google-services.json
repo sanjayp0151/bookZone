@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010045353876",
+    "project_id": "quiz-kia-kya-verification",
+    "storage_bucket": "quiz-kia-kya-verification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010045353876:android:6e4c5a9bd35f08f933d981",
+        "android_client_info": {
+          "package_name": "com.example.quizkiakya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010045353876-0mtdhbmg0njvpklu2n6drmb1ogpvvdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfFRPLhKFfXjmwBu7JDEzKUHTUDtRngno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010045353876-0mtdhbmg0njvpklu2n6drmb1ogpvvdil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
